@@ -19,8 +19,8 @@ RTIME_URL = "http://meswebrosenberg.corp.pep.pvt:8080/Thingworx/Runtime/index.ht
                 "=EventReconciliationReport_Mashup&Entity=undefined&__applyThemeName=RTIME_Theme&_refreshTS" \
                 "=1670859251866 "
 
-USR = '71061988'
-PSS = 'WTFMate13'
+USR = '---------'
+PSS = '---------'
 RUN_BUTTON_ELM = "root_pagemashupcontainer-6_ptcsbutton-20"
 SEL_TIME_ELM = "root_pagemashupcontainer-6_ptcsbutton-81"
 CURRENT_SHIFT_ELM = "root_pagemashupcontainer-6_navigationfunction-365-popup_ptcsbutton-6"
@@ -238,3 +238,4 @@ file_html.close()
 #Run server
 print("Running server")
 run_server()
+
